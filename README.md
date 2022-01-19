@@ -1,7 +1,7 @@
 # Site-de-Noticias-feito-com-HTML-e-CSS
 
 Fiz esse site com o objetivo de estudo pois estou fazendo um curso de programação na Udemy.
-Por favor, se puder me dar uma dica de como eu posso melhorar meus codigos eu agradeceria muito.
+Por favor se puder me dar uma dica de como posso melhorar meus codigos eu agradeceria muito.
 
 # Print tirada com 80% da pagina do navegador
 ![1](https://user-images.githubusercontent.com/97680488/150199088-d23092c9-5a29-472f-b3f5-b946375ce8f3.PNG)
